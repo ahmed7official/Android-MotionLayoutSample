@@ -2,7 +2,7 @@ MotionLayout Sample
 ===========
 
 
-This is a sample app demonstrating UX/UI animation using MotionLayout.
+This is a sample app demonstrating android notification bar animation using MotionLayout.
 
 
 
